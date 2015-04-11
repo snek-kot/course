@@ -1,0 +1,13 @@
+body {
+  padding-top: 70px;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}

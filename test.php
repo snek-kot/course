@@ -10,17 +10,21 @@
     <link href="css/test.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container-fluid">
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
-            <a class="navbar-brand" href="#">testing</a>
-            <li class="active"><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
+
+<div class="navbar navbar-default navbar-static-top navbar-inverse">
+    <div class="navbar-header">
+        <a href="#" class="navbar-brand">tests</a>
+    </div>
+    <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Test</a></li>
+        <li><a href="#">Profile</a></li>
+        <li class="divider-vertical"></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Exit</a></li>
+    </ul>
+</div>
+
 <div class="row">
     <div class="col-md-6" style="border-style: solid 1px;">
         <img src="http://placehold.it/500x500" class="img-rounded">

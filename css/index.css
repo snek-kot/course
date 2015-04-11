@@ -34,13 +34,3 @@ img {
 #navbar{
     background-color: black;
 }
-
-html {
-    display: table;
-    margin: auto;
-}
-
-body {
-    display: table-cell;
-    vertical-align: middle;
-}

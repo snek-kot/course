@@ -11,3 +11,23 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
+
+/* CSS used here will be applied after bootstrap.css 
+.navbar-default{
+    text-align: center;
+    box-shadow: inset 0px 6px 0px red;    
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: white;
+    background-color: blue;
+    box-shadow: inset 0px 6px 0px #000;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: white;
+    background-color: blue;
+    box-shadow: inset 0px 6px 0px #AAA;
+}*/
+

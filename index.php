@@ -15,7 +15,7 @@
     <br>
     <br>
     <br>
-    <form id="password" action="main.php" method="POST">
+    <form id="password" action="test.php" method="POST">
         <input type="password" name="pw" id="textfield" maxlength="21"><br>
         <br><br>
         <input type="image" src="img/enter_button.png" onmouseover="this.src='img/enter_button_hover.png'" onmouseout="this.src='img/enter_button.png'" alt="Enter">
